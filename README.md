@@ -15,17 +15,12 @@
 For now there is no functionality for this project.
 
 
-## Authors
+## Author
 
 👤 **Haider Ahmad**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Haider37](https://github.com/Hidar37)
 
-👤 **Author2**
-
-- GitHub: https://github.com/Hidar37
 
 ## 🤝 Contributing
 
@@ -45,4 +40,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is not license for now.
+This project is [MIT](./LICENSE) licensed.
