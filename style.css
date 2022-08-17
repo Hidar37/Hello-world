@@ -1,5 +1,11 @@
-.page-header {
-  color: red;
-  text-align: center;
-  padding: 1rem;
-  margin: 0 auto; }
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
