@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.page-title {
+  color: red;
+  text-align: center;
+  padding: 1rem;
+  margin: 0 auto;
+}
